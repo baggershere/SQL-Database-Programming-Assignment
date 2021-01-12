@@ -1,0 +1,8 @@
+B A100,100 metres sprint,Stadium 1,2019-04-12,16:00,1000
+B AMTH,Marathon,Stadium 1,2019-04-12,18:00,1000
+B A400,400 metres sprint,Stadium 1,2019-04-12,10:00,1000
+B ALJP,Long Jump,Stadium 1,2019-04-12,10:00,1000
+B YCHT,Yacht Racing,Marina,2019-04-12,09:00,200
+B WSRF,Wind Surfing,Marina,2019-04-12,12:00,200
+B JUDO,Judo,Arena 2,2019-04-12,10:00,3
+B SWIM,Swimming,Pool,2019-04-12,10:00,100
